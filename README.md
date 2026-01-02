@@ -1,3 +1,3 @@
 # Loadbalancer
-Loadbalacer algos written in golang
+Loadbalacer Algorithms written in golang
 - Round Robin 
